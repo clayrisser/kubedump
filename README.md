@@ -4,6 +4,8 @@
 
 > dump kubernetes
 
+![](assets/kubedump.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 ## Features
